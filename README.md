@@ -1,2 +1,2 @@
 # Canvas
-Quadro de desenho utilizado JS, dsenvolvido durante o curso da B7WEB
+Quadro de desenho utilizando JS, dsenvolvido durante o curso da B7WEB
